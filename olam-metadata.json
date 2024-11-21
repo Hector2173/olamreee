@@ -1,5 +1,5 @@
 {
-  "_DEFAULT_SORT_": "name",
+  "_DEFAULT_SORT_": "mass",
   "mass": {
     "show-btn": "Atomic mass",
     "info-label": "Atomic mass",
